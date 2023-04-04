@@ -26,3 +26,11 @@ Contributions are welcome! Here are a few ways you can help:
 - Report bugs
 - Fix bugs and submit pull requests
 - Add new features and submit pull requests
+
+## Sample
+
+![alt text](https://github.com/Rohan-Sam/World_time_App/blob/master/sample1.jpg?raw=true)
+
+![alt text](https://github.com/Rohan-Sam/World_time_App/blob/master/choose_location.jpg?raw=true)
+
+![alt text](https://github.com/Rohan-Sam/World_time_App/blob/master/sample2.jpg?raw=true)
